@@ -31,10 +31,10 @@
 7. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
-
+Hi I'm gaurav Rawat and this a simple AI summarization tool feel free to integerate this is you application.
 Summarize any kind of article with just one click using the powerful OpenAI model.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community.
+If you're getting started and need assistance or face any bugs, connect wtih me on gaurwat191@gmail.com
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -69,8 +69,3 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/project_ai_summarizer.git
-cd project_ai_summarizer
