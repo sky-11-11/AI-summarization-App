@@ -16,7 +16,7 @@
   <h3 align="center">An AI Article Summarizer Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial.
+     Build this project step by step with my detailed tutorial.
     </div>
 </div>
 
@@ -31,7 +31,7 @@
 7. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
-Hi I'm gaurav Rawat and this a simple AI summarization tool feel free to integerate this is you application.
+Hi I'm Gaurav Rawat and this a simple AI summarization tool feel free to integerate this is you application.
 Summarize any kind of article with just one click using the powerful OpenAI model.
 
 If you're getting started and need assistance or face any bugs, connect wtih me on gaurwat191@gmail.com
